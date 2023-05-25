@@ -1,0 +1,29 @@
+/* line 5, app/assets/stylesheets/rooms.scss */
+.message-box {
+  width: fit-content;
+  max-width: 40%;
+  padding: 5px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  background-color: #555555;
+  padding: 10px;
+}
+
+/* line 14, app/assets/stylesheets/rooms.scss */
+.msg-form {
+  position: fixed;
+  bottom: 0;
+  width: 90%;
+}
+
+/* line 20, app/assets/stylesheets/rooms.scss */
+.col-md-10 {
+  height: 100vh;
+  overflow: scroll;
+}
+
+/* line 25, app/assets/stylesheets/rooms.scss */
+.msg-content {
+  width: 80%;
+  margin-right: 5px;
+}
